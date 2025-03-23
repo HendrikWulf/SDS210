@@ -1,10 +1,10 @@
-# Introduction to GIS Programming
+# Introduction to GEO Python
 
-Welcome to the official course website for "_Introduction to GIS Programming_," offered at the University of Tennessee, Knoxville.
+Welcome to the course website for "_Programming with Spatial Data_," (a.k.a. Fundamentals of Working with Digital Spatial Data II) offered at the University of Zurich, Switzerland.
 
 ## Course Overview
 
-This course offers a comprehensive exploration of GIS programming, centered around the Python programming language. Throughout the semester, students will master the use of Python libraries and frameworks essential for processing, analyzing, and visualizing geospatial data.
+This course offers a comprehensive introduction to the Python programming language. Throughout the semester, you will master the use of Python libraries and frameworks essential for processing, analyzing, and visualizing geospatial data.
 
 ## What You'll Learn
 
